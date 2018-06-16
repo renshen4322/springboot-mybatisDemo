@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Select;
 public interface DemoMappper {
 
 	/**
-	 * //#{name}:参数占位符
+	 * #{name}:参数占位符
 	 * @param name
 	 * @return
 	 */
