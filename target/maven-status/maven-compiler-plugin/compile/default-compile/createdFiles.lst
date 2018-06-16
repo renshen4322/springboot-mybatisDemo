@@ -1,0 +1,6 @@
+com\kfit\spring_boot_mybatis\DemoService.class
+com\kfit\spring_boot_mybatis\Demo.class
+com\kfit\spring_boot_mybatis\DemoController.class
+com\kfit\spring_boot_mybatis\DemoMappper.class
+com\kfit\spring_boot_mybatis\App.class
+com\kfit\spring_boot_mybatis\config\MyBatisConfiguration.class
